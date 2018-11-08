@@ -87,7 +87,7 @@ Lexicons:
 
 * [SentiWords](https://hlt-nlp.fbk.eu/technologies/sentiwords) - Collection of 155,000 English words with a sentiment score included between -1 and 1. Words are in the form lemma#PoS and are aligned with WordNet lists that include adjectives, nouns, verbs and adverbs.
 
-* [SenticNet](https://sentic.net/) [API](http://sentic.net/api/) - Words with a sentiment score included between -1 and 1.
+* [SenticNet](https://sentic.net/) [API](http://sentic.net/api/) - Concepts with a polarity score included between -1 and 1.
 
 * [WordStat](https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/sentiment-dictionaries/) - Context-specific sentiment analysis dictionary with categories Negative, Positive, Uncertainty, Litigiousness and Modal. This dataset is inspired from two papers, written by Loughran and McDonald (2011) and Young and Soroka (2011).
 
